@@ -54,8 +54,8 @@ logo = """
   ======================================================
 |                   ASSALAMU ALAIKUM                    |
 |              Coded By : AHSAN RAJPUT                  |
-|      Editing My Script Will Not Make You  a Coder     | 
-|         AHSAN THE OFFICIAL PROGRAMMER [ H.O.P]        |
+|    Editing My Script Will Not Make You  a Coder     | 
+|         AHSAN THE OFFICIAL PROGRAMMER [ A.O.P]        |
 |               Whatsapp : +1 (786) 6071514.            |
   ====================================================== """
 
@@ -90,9 +90,9 @@ print  """
  ======================================================
 |                   ASSALAMU ALAIKM                    |
 |              Coded By : AHSAN RAJPUT                 |
-|      Editing My Script Will Not Make You  a Coder     | 
-|         AHSAN RAJPUT THE OFFICIAL PROGRAMMER [ H.O.C]        |
-|               Whatsapp : +1(786) 6071515              |
+|     Editing My Script Will Not Make You  a Coder     | 
+|       AHSAN RAJPUT THE OFFICIAL PROGRAMMER [ A.O.C]  |     |
+|              Whatsapp : +1(786) 6071515              |
   ====================================================== """
 
 
@@ -125,7 +125,8 @@ def login():
 		os.system('clear')
 		print logo
 		jalan(' \033[1;91mWarning: \033[1;95mDo Not Use Your Personal Account' )
-		print "\033[1;91mWarning: \033[1;95mUse a New Account To Login"
+		print logo
+		jalan"\033[1;91mWarning: \033[1;95mUse a New Account To Login"
 		                 
 	
 		print "\033[1;94mLOGIN WITH FACEBOOK "        
