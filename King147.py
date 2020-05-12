@@ -53,10 +53,10 @@ def jalan(z):
 logo = """
   ======================================================
 |                   ASSALAMU ALAIKUM                    |
-|              Coded By : AHSAN RAJPUT                 |
+|              Coded By : AHSAN RAJPUT                  |
 |      Editing My Script Will Not Make You  a Coder     | 
 |         AHSAN THE OFFICIAL PROGRAMMER [ H.O.P]        |
-|               Whatsapp : +1 (786) 6071514.              |
+|               Whatsapp : +1 (786) 6071514.            |
   ====================================================== """
 
 
