@@ -293,7 +293,7 @@ def pilih_super():
 	print "\033[1;32m|     To Stop Process Press CTRL+Z          |"
 	print "\033[1:32m|   Cp Account Open After 1 Or 2 Days       |"              
 	print "\033[1;32m|       1 Baar Darood Sharif Parhy          |"
-	print "\033[1;93m| Having Problem? Whatsapp Me :+923097992202|"
+	print "\033[1;93m|Having Problem? Whatsapp Me:+1(786) 6071514|"
 	print "\033[1;32m|-------------------------------------------|"
 	print "\033[1;32m|   AHSAN THE OFFICIAL PROGRAMMER [ H.O.P ] |"
 	print "\033[1;32m|-------------------------------------------|"
@@ -425,7 +425,7 @@ def pilih_super():
 	print """
            --------Checkpoint ID Open After 7 Days Automatically --------
                 WhatsApp Num
-              \033[1;93m +1 (786) 6071515"""
+              \033[1;93m +1 (786) 6071514"""
 	
 	raw_input("\n\033[1;92m[\033[1;91mBack\033[1;96m]")
 	menu()
